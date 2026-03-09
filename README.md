@@ -2,7 +2,7 @@
 title: AI Stock Market Sentiment Engine
 emoji: 📊
 colorFrom: blue
-colorTo: slate
+colorTo: red
 sdk: gradio
 sdk_version: 4.19.2
 app_file: app.py
