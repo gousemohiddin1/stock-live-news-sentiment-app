@@ -1,0 +1,6 @@
+tensorflow
+sentence-transformers
+yfinance
+newspaper3k
+gradio
+pandas
