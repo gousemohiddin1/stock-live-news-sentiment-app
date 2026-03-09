@@ -1,6 +1,10 @@
-tensorflow
-sentence-transformers
 yfinance
 newspaper3k
-gradio
-pandas
+lxml[html_clean]
+gradio==4.19.2
+tensorflow
+sentence-transformers
+scikit-learn
+joblib
+numpy
+matplotlib>=3.8.0
